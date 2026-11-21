@@ -1,0 +1,6 @@
+===== LIBRARY AVAILABILITY REPORT =====
+The Hobbit
+Emma
+Dracula
+Available books: 3
+Total books: 4

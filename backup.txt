@@ -1,0 +1,6 @@
+BOOK;1;The Hobbit;J.R.R. Tolkien;false;
+BOOK;2;Dune;Frank Herbert;true;Alice
+BOOK;3;Emma;Jane Austen;false;
+BOOK;4;Dracula;Bram Stoker;false;
+BOOK;5;The Great Gatsby;F. Scott Fitzgerald;false;
+BOOK;99;Matilda;Roald Dahl;false;
